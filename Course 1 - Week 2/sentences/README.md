@@ -2,10 +2,10 @@
 ### Course 1 - Math and Python for Data Analysis ### 
 
 #### Week 2 #### 
-#### Problem 1 #### 
+#### Problem 1 - Comparison of the Sentences#### 
 
 There is a set of sentences copied from Wikipedia. 
-Everyone of them has 'cats' topic: 
+Each of them has 'cats' topic: 
 - cats (animals) 
 - UNIX-utility cat 
 - versions of OS X, titled after various cat names
