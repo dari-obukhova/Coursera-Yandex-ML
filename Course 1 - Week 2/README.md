@@ -3,7 +3,7 @@
 
 #### Week 2 #### 
 
-#### Problem 1 - Comparison of the Sentences#### 
+#### Problem 1 - Comparison of the Sentences #### 
 
 There is a set of sentences copied from Wikipedia. 
 Each of them has 'cats' topic: 
@@ -14,7 +14,7 @@ Each of them has 'cats' topic:
 **The task:** to find 2 sentences that are closest in the meaning to the first one.  
 Measure of proximity in the meaning: cosine distance. 
 
-#### Problem 2 - Function approximation#### 
+#### Problem 2 - Function approximation #### 
 
 f(x) = sin(x / 5) * exp(x / 10) + 5 * exp(-x / 2) in the interval [1,15]  
 

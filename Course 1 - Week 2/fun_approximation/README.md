@@ -3,7 +3,7 @@
 
 #### Week 2 #### 
 
-#### Problem 2 - Function approximation#### 
+#### Problem 2 - Function approximation #### 
 
 f(x) = sin(x / 5) * exp(x / 10) + 5 * exp(-x / 2) in the interval [1,15]  
 
